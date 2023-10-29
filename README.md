@@ -6,4 +6,4 @@
 ## ✨ Tech Stack
 **-** ScrollTrigger, GSAP
 
-[See Site](https://maviswisanggeni.github.io/imagerevealonscroll/)
+[See Site](https://maviswisanggeni.github.io/imagerevealonscroll/){:target="_blank"}
